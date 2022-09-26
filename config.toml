@@ -2,7 +2,7 @@ baseurl = "/"
 # baseURL = 'http://sotcsa.com/'
 languageCode = 'en-us'
 title = 'SOTCSA Hugo Site'
-theme = "terminal"
+# theme = "terminal"
 paginate = 5
 
 [params]
